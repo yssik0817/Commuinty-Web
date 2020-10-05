@@ -1,0 +1,20 @@
+com/web/domain/User.java
+ com.web.domain.User
+ com.web.domain.User$UserBuilder
+com/web/repository/UserRepository.java
+ com.web.repository.UserRepository
+com/web/domain/Board.java
+ com.web.domain.Board
+ com.web.domain.Board$BoardBuilder
+com/web/domain/enums/BoardType.java
+ com.web.domain.enums.BoardType
+com/web/service/BoardService.java
+ com.web.service.BoardService
+com/CommunityWebApplication.java
+ com.CommunityWebApplication
+com/web/BootApplication.java
+ com.web.BootApplication
+com/web/repository/BoardRepository.java
+ com.web.repository.BoardRepository
+com/web/controller/BoardController.java
+ com.web.controller.BoardController

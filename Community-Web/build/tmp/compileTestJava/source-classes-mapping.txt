@@ -1,0 +1,4 @@
+com/CommunityWebApplicationTests.java
+ com.CommunityWebApplicationTests
+com/web/JpaMappingTest.java
+ com.web.JpaMappingTest
